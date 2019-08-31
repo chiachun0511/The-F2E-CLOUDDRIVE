@@ -1,0 +1,15 @@
+.mynav{
+    background-color: #203182;
+}
+.line{
+    border-bottom: 3px solid#c3c7dd; 
+}
+.icon{
+    width: 40px;
+}
+.item:hover{
+    background-color: #efefef;
+}
+.toolbox:hover{
+    background-color: #203182 ;
+}
